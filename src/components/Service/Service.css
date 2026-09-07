@@ -1,0 +1,17 @@
+.services {
+  padding: 60px 0 40px;
+  position: relative;
+}
+
+.services-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.category-label {
+  font-size: 13px;
+  color: #74798B;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 6px;
+}

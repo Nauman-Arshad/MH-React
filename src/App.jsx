@@ -1,11 +1,15 @@
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
+import Hero from "./components/Hero/Hero";
+import Service from "./components/Service/Service";
 function App() {
   return (
     <>
     <Header />
-    <h1>Welcome to My App</h1>
+    <Hero />
+    <Service />
     <Footer />
+    
     </>
   )
 }
