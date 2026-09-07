@@ -1,6 +1,5 @@
-import React from 'react';
 import './Hero.css';
-import hero from '../../assets/image.png'; 
+
 
 
 function Hero() {
@@ -10,7 +9,7 @@ function Hero() {
 
       <div className="hero-content">
         <p className="subtitle">BEST DESTINATIONS AROUND THE WORLD</p>
-        
+
         <h1>
           Travel, enjoy
           <br />
@@ -28,13 +27,13 @@ function Hero() {
         </p>
               <div className="button">
         <button className="btn">Find out more</button>
-         
+
           <button className="demo-btn"> <span className="play-icon"> ▶</span>
 Play Demo</button>
       </div>
       </div>
       <div className="hero-image">
-        <img src={hero} alt="Hero" />
+        <img src="/images/hero.png" alt="Hero" />
       </div>
 
     </section>
