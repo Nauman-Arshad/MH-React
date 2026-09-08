@@ -1,0 +1,32 @@
+.next-trip {
+  padding: 60px;
+  position: relative;
+  margin-left: 70px;
+
+}
+.next-trip-header {
+  margin-bottom: 100px;
+}
+.next-trip-column {
+    display: flex;
+  flex-direction: column;
+
+}
+.next-trip-card{
+        gap: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.next-trip-card img{
+    width: 50px;
+    height: 50px;
+    border-radius: 10%;
+    margin-right: 20px;
+}
+.next-trip-card h4 p{
+    font-size: 13px;
+    color: #74798B;
+    font-weight: 700;
+    letter-spacing: 2px;
+}

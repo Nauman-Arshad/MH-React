@@ -15,3 +15,51 @@
   letter-spacing: 2px;
   margin-bottom: 6px;
 }
+.pattern-image {
+  margin-left: 1320px;
+  position: absolute;
+  top: 50px;
+}
+.service-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}
+.service-row {
+  width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 45px;
+  padding: 60px 5%;
+}
+
+.service {
+  width: 210px;
+  min-height: 230px;
+  text-align: center;
+  padding: 25px 15px;
+  position: relative;
+}
+.service img {
+  width: 80px;
+  height: 80px;
+  margin-bottom: 22px;
+}
+
+.service h3 {
+  font-size: 17px;
+  font-weight: 600;
+  color: #20233c;
+  margin: 0 0 15px;
+}
+
+
+.service p {
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.7;
+  color: #5e6275;
+  margin: 0;
+}

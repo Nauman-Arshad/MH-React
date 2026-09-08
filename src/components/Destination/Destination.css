@@ -1,0 +1,23 @@
+.destination {
+  padding: 60px 0 40px;
+  position: relative;
+}
+
+.destination-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.category-label {
+  font-size: 13px;
+  color: #74798B;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-bottom: 6px;
+}
+.destination-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}
